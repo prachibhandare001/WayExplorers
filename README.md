@@ -23,7 +23,7 @@ Future Enhancements
 License
 
 # ✅ Features
-User Side
+# *👤 User Side*
 
 Register and login securely
 
@@ -37,7 +37,7 @@ Update personal profile information
 
 View booking history
 
-Admin Side
+# *🛠 Admin Side*
 
 Admin authentication
 
